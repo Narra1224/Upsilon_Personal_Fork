@@ -516,36 +516,36 @@ SiFormule27= "v=rayon*ω_rmax (sortie reduc)"
 SiFormule28= "ω_mmax=ω_rmax/réducteur"
 SiTheoreme1 = "PFD : Σ!Fext=>système = m * !a"
 
-πr²
-πD
-b*h/2
-4/3πr³
-L = r*θ
-(180*rad)/π = degrés
-(deg*π)/180 = rad
-P = F / S
-P = M * g
-1 m/s = 3,6 km/h
-v = Rayon * ω
-ω = 2πN / 60
-N = 30ω/π
-produit Zmenées/produit Zmenantes
-Cinématique : Translation
-s(t) = (1/2)a(t-t0)² + v0(t-t0) + s0
-v(t) = a(t-t0) + v0 
-Cinématique : Rotation
-θ(t) = (1/2)ω'(t-t0)² + ω0(t-t0) + s0
-ω(t) = ω'(t-t0) + ω0
-ω = 2πf
-Circuit série :
-Loi des branches : U=U1+U2
-Circuit dérivation :
-Loi des branches : U=U1=U2
-Req = R1R2/R1+R2
-Circuit Pont diviseur tension :
-U1 = R1* U/Req
-MODELE D'ORDRE :
-0 = marche escalier
+SiFormule29 = "πr²"
+SiFormule30 = "πD"
+SiFormule31 = "b*h/2"
+SiFormule32 = "4/3πr^3"
+SiFormule33 = "L=r*θ"
+SiFormule34 = "(180*rad)/π = degrés"
+SiFormule35 = "(deg*π)/180 = rad"
+SiFormule36 = "P=F/S"
+SiFormule37 = "P=M*g"
+SiFormule38 = "1 m/s = 3,6 km/h"
+SiFormule38v = Rayon * ω
+SiFormule38ω = 2πN / 60
+SiFormule38N = 30ω/π
+SiFormule38produit Zmenées/produit Zmenantes
+SiFormule38Cinématique : Translation
+SiFormule38s(t) = (1/2)a(t-t0)² + v0(t-t0) + s0
+SiFormule38v(t) = a(t-t0) + v0 
+SiFormule38Cinématique : Rotation
+SiFormule38θ(t) = (1/2)ω'(t-t0)² + ω0(t-t0) + s0
+SiFormule38ω(t) = ω'(t-t0) + ω0
+SiFormule38ω = 2πf
+SiFormule38Circuit série :
+SiFormule38Loi des branches : U=U1+U2
+SiFormule38Circuit dérivation :
+SiFormule38Loi des branches : U=U1=U2
+SiFormule38Req = R1R2/R1+R2
+SiFormule38 = "Circuit Pont diviseur tension :""
+SiFormule38 = "U1 = R1* U/Req"
+SiFormule38 = "MODELE D'ORDRE :""
+SiFormule38 = "0 = marche escalier"
 1 = courbe
 2 = courbe + inflexion
 dépassement
