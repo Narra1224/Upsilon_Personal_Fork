@@ -530,7 +530,7 @@ SiFormule41 = "N=30ω/π""
 SiFormule42 = "produit Zmenées/produit Zmenantes"
 SiFormule43 = "Cinématique : Translation"
 SiFormule44 = "s(t) = (1/2)a(t-t0)^2+v0(t-t0)+s0"
-SiFormule45 = "v(t) = a(t-t0) + v0" 
+SiFormule45 = "v(t) = a(t-t0) + v0"
 SiFormule46 = "Cinématique : Rotation"
 SiFormule47 = "θ(t)=(1/2)ω'(t-t0)^2+ω0(t-t0)+s0"
 SiFormule48 = "ω(t)=ω'(t-t0)+ω0
