@@ -640,3 +640,7 @@ SiFormuleTag119 = "rapport réduction (rien)"
 SiFormuleTag120 = "contrainte normale (Mpa ou N/mm²)"
 SiFormuleTag121 = "pression (Bar)"
 SiFormuleTag122 = "= 0,1 Mpa"
+SiFormuleTag123 = "Volt=Volt+Resis*Ampère"
+SiFormuleTag124 = "Volt=cstMot*rad/s"
+SiFormuleTag125 = "N/m=cstMot*Ampère"
+
