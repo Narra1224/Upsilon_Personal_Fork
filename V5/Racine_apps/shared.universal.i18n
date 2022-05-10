@@ -524,7 +524,7 @@ SiFormule35 = "(deg*π)/180 = rad"
 SiFormule36 = "P=F/S"
 SiFormule37 = "P=M*g"
 SiFormule38 = "1 m/s = 3,6 km/h"
-SiFormule39 = "v=Rayon*ω
+SiFormule39 = "v=Rayon*ω"
 SiFormule40 = "ω=2πN/60"
 SiFormule41 = "N=30ω/π""
 SiFormule42 = "produit Zmenées/produit Zmenantes"
