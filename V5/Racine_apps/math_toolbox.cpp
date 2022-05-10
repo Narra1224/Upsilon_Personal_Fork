@@ -850,9 +850,9 @@ const ToolboxMessageTree SiElec[] = {
   ToolboxMessageTree::Leaf(I18n::Message::SiFormule1, I18n::Message::SiFormule1Tag, false, I18n::Message::SiFormule1Tag),
   ToolboxMessageTree::Leaf(I18n::Message::SiFormule2, I18n::Message::SiFormule2Tag, false, I18n::Message::SiFormule2Tag),
   ToolboxMessageTree::Leaf(I18n::Message::SiFormule3, I18n::Message::SiFormule3Tag, false, I18n::Message::SiFormule3Tag),
-  ToolboxMessageTree::Leaf(I18n::Message::SiFormule123, I18n::Message::SiFormule3Tag, false, I18n::Message::SiFormule3Tag),
-  ToolboxMessageTree::Leaf(I18n::Message::SiFormule124, I18n::Message::SiFormule3Tag, false, I18n::Message::SiFormule3Tag),
-  ToolboxMessageTree::Leaf(I18n::Message::SiFormule125, I18n::Message::SiFormule3Tag, false, I18n::Message::SiFormule3Tag),
+  ToolboxMessageTree::Leaf(I18n::Message::SiFormule123, I18n::Message::SiFormule123Tag, false, I18n::Message::SiFormule123Tag),
+  ToolboxMessageTree::Leaf(I18n::Message::SiFormule124, I18n::Message::SiFormule124Tag, false, I18n::Message::SiFormule124Tag),
+  ToolboxMessageTree::Leaf(I18n::Message::SiFormule125, I18n::Message::SiFormule125Tag, false, I18n::Message::SiFormule125Tag),
   ToolboxMessageTree::Leaf(I18n::Message::SiFormule4, I18n::Message::SiFormule4Tag, false, I18n::Message::SiFormule4Tag),
   ToolboxMessageTree::Leaf(I18n::Message::SiFormule5, I18n::Message::SiFormule5Tag, false, I18n::Message::SiFormule5Tag),
   ToolboxMessageTree::Leaf(I18n::Message::SiFormule6, I18n::Message::SiFormule6Tag, false, I18n::Message::SiFormule6Tag),
@@ -914,7 +914,6 @@ const ToolboxMessageTree SiElec[] = {
   ToolboxMessageTree::Leaf(I18n::Message::SiFormule96, I18n::Message::SiFormule96Tag, false, I18n::Message::SiFormule96Tag),
   ToolboxMessageTree::Leaf(I18n::Message::SiFormule97, I18n::Message::SiFormule97Tag, false, I18n::Message::SiFormule97Tag),
   ToolboxMessageTree::Leaf(I18n::Message::SiFormule98, I18n::Message::SiFormule98Tag, false, I18n::Message::SiFormule98Tag),
-// Conversions bases
   ToolboxMessageTree::Leaf(I18n::Message::SiFormule99, I18n::Message::SiFormule99Tag, false, I18n::Message::SiFormule99Tag),
   ToolboxMessageTree::Leaf(I18n::Message::SiFormule100, I18n::Message::SiFormule100Tag, false, I18n::Message::SiFormule100Tag),
   ToolboxMessageTree::Leaf(I18n::Message::SiFormule101, I18n::Message::SiFormule101Tag, false, I18n::Message::SiFormule101Tag),
@@ -922,7 +921,7 @@ const ToolboxMessageTree SiElec[] = {
   ToolboxMessageTree::Leaf(I18n::Message::SiFormule103, I18n::Message::SiFormule103Tag, false, I18n::Message::SiFormule103Tag),
 };
 
-const ToolboxMessageTree SiMeca[] = {
+const ToolboxMessageTree SiMeca[] ={
   ToolboxMessageTree::Leaf(I18n::Message::SiTheoreme1, I18n::Message::SiTheoreme1Tag, false, I18n::Message::SiTheoreme1Tag),
   ToolboxMessageTree::Leaf(I18n::Message::SiFormule16, I18n::Message::SiFormule16Tag, false, I18n::Message::SiFormule16Tag),
   ToolboxMessageTree::Leaf(I18n::Message::SiFormule17, I18n::Message::SiFormule17Tag, false, I18n::Message::SiFormule17Tag),
@@ -958,7 +957,6 @@ const ToolboxMessageTree SiMeca[] = {
   ToolboxMessageTree::Leaf(I18n::Message::SiFormule47, I18n::Message::SiFormule47Tag, false, I18n::Message::SiFormule47Tag),
   ToolboxMessageTree::Leaf(I18n::Message::SiFormule48, I18n::Message::SiFormule48Tag, false, I18n::Message::SiFormule48Tag),
   ToolboxMessageTree::Leaf(I18n::Message::SiFormule49, I18n::Message::SiFormule49Tag, false, I18n::Message::SiFormule49Tag),
-// unités
   ToolboxMessageTree::Leaf(I18n::Message::SiFormule104, I18n::Message::SiFormule104Tag, false, I18n::Message::SiFormule104Tag),
   ToolboxMessageTree::Leaf(I18n::Message::SiFormule105, I18n::Message::SiFormule105Tag, false, I18n::Message::SiFormule105Tag),
   ToolboxMessageTree::Leaf(I18n::Message::SiFormule106, I18n::Message::SiFormule106Tag, false, I18n::Message::SiFormule106Tag),
@@ -980,7 +978,6 @@ const ToolboxMessageTree SiMeca[] = {
   ToolboxMessageTree::Leaf(I18n::Message::SiFormule122, I18n::Message::SiFormule122Tag, false, I18n::Message::SiFormule122Tag),
 };
 
-  
 
 const ToolboxMessageTree SI[] = {
   ToolboxMessageTree::Node(I18n::Message::TagArtola, SiElec),
