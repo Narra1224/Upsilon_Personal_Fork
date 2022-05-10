@@ -607,4 +607,4 @@ SiFormule84Tag = "Start"
 SiFormule85Tag = "Acknowledge"
 SiFormule86Tag = "Stop"
 SiFormule87Tag = "Restart"
-SiFormule88Tag = "Write/Read          h
+SiFormule88Tag = "Write/Read"
