@@ -533,7 +533,7 @@ SiFormule44 = "s(t) = (1/2)a(t-t0)^2+v0(t-t0)+s0"
 SiFormule45 = "v(t) = a(t-t0) + v0"
 SiFormule46 = "Cinématique : Rotation"
 SiFormule47 = "θ(t)=(1/2)ω'(t-t0)^2+ω0(t-t0)+s0"
-SiFormule48 = "ω(t)=ω'(t-t0)+ω0
+SiFormule48 = "ω(t)=ω'(t-t0)+ω0"
 SiFormule49 = "ω=2πf"
 SiFormule50 = "Circuit série :"
 SiFormule51 = "Loi des branches : U=U1+U2"
