@@ -526,53 +526,53 @@ SiFormule35 = "(deg*π)/180 = rad"
 SiFormule36 = "P=F/S"
 SiFormule37 = "P=M*g"
 SiFormule38 = "1 m/s = 3,6 km/h"
-SiFormule38v = Rayon * ω
-SiFormule38ω = 2πN / 60
-SiFormule38N = 30ω/π
-SiFormule38produit Zmenées/produit Zmenantes
-SiFormule38Cinématique : Translation
-SiFormule38s(t) = (1/2)a(t-t0)² + v0(t-t0) + s0
-SiFormule38v(t) = a(t-t0) + v0 
-SiFormule38Cinématique : Rotation
-SiFormule38θ(t) = (1/2)ω'(t-t0)² + ω0(t-t0) + s0
-SiFormule38ω(t) = ω'(t-t0) + ω0
-SiFormule38ω = 2πf
-SiFormule38Circuit série :
-SiFormule38Loi des branches : U=U1+U2
-SiFormule38Circuit dérivation :
-SiFormule38Loi des branches : U=U1=U2
-SiFormule38Req = R1R2/R1+R2
-SiFormule38 = "Circuit Pont diviseur tension :""
-SiFormule38 = "U1 = R1* U/Req"
-SiFormule38 = "MODELE D'ORDRE :""
-SiFormule38 = "0 = marche escalier"
-1 = courbe
-2 = courbe + inflexion
-dépassement
-K
-tau
-m
-Wo
-f(m)
-rapidité
-précision (%)
-3tau
-CAN:
-N = Ve/q
-N = (Ve/Vref)*(2^n-1)
-rapport cyclique
-rapport cyclique
-Umoyen
-T
-q
-q
-n
-PWM(Pin(),freq="hz",duty="")
-1cy = 1023 dutymax
-I2C:
-S;SlaveAdress;W/R;ACK;Data;P
-S
-ACK
-P
-SR
-W/R
+SiFormule39 = "v=Rayon*ω
+SiFormule40 = "ω=2πN/60"
+SiFormule41 = "N=30ω/π""
+SiFormule42 = "produit Zmenées/produit Zmenantes"
+SiFormule43 = "Cinématique : Translation"
+SiFormule44 = "s(t) = (1/2)a(t-t0)^2+v0(t-t0)+s0"
+SiFormule45 = "v(t) = a(t-t0) + v0" 
+SiFormule46 = "Cinématique : Rotation"
+SiFormule47 = "θ(t)=(1/2)ω'(t-t0)^2+ω0(t-t0)+s0"
+SiFormule48 = "ω(t)=ω'(t-t0)+ω0
+SiFormule49 = "ω=2πf"
+SiFormule50 = "Circuit série :"
+SiFormule51 = "Loi des branches : U=U1+U2"
+SiFormule52 = "Circuit dérivation :"
+SiFormule53 = "Loi des branches : U=U1=U2"
+SiFormule54 = "Req = R1R2/R1+R2"
+SiFormule55 = "Circuit Pont diviseur tension :"
+SiFormule56 = "Ucib = Ualim*(Rcib/ΣReq)"
+SiFormule57 = "MODELE D'ORDRE :"
+SiFormule58 = "0 = marche escalier"
+SiFormule59 = "1 = courbe"
+SiFormule60 = "2 = courbe + inflexion"
+SiFormule61 = "dépassement"
+SiFormule62 = "K"
+SiFormule63 = "tau"
+SiFormule64 = "m"
+SiFormule65 = "Wo"
+SiFormule66 = "f(m)""
+SiFormule67 = "rapidité""
+SiFormule68 = "précision (%)"
+SiFormule69 = "3tau"
+SiFormule70 = "CAN:"
+SiFormule71 = "N = Ve/q"
+SiFormule72 = "N = (Ve/Vref)*(2^n-1)"
+SiFormule73 = "rapport cyclique"
+SiFormule74 = "rapport cyclique"
+SiFormule75 = "Umoyen"
+SiFormule76 = "T"
+SiFormule77 = "q"
+SiFormule78 = "q"
+SiFormule79 = "n"
+SiFormule80 = "PWM(Pin(),freq="hz",duty="")"
+SiFormule81 = "1cy = 1023 dutymax"
+SiFormule82 = "I2C:"
+SiFormule83 = "S;SlaveAdress;W/R;ACK;Data;P"
+SiFormule84 = "S"
+SiFormule85 = "ACK"
+SiFormule86 = "P"
+SiFormule87 = "SR"
+SiFormule88 = "W/R"
